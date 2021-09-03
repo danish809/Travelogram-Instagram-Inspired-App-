@@ -1,0 +1,14 @@
+1) react-native-firebase
+
+    installtion instruction :-   https://rnfirebase.io/#1-install-via-npm
+
+if (Execution failed for task ':app:mergeDexDebug' error.) 
+    follow this https://rnfirebase.io/enabling-multidex
+
+
+
+2) react-native-vector-icons
+
+Edit android/app/build.gradle ( NOT android/build.gradle ) and add the following:
+
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"

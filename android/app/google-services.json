@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "653871654163",
+    "firebase_url": "https://kirana-f08b6.firebaseio.com",
+    "project_id": "kirana-f08b6",
+    "storage_bucket": "kirana-f08b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653871654163:android:9d4369319b05f4e5eb26e6",
+        "android_client_info": {
+          "package_name": "com.kiranakarona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653871654163-j3525p20g11ck0qhdvupf82h9hfed83c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMndYPlwfxC7QeNO7WDkhsFJUbqGIOPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653871654163-j3525p20g11ck0qhdvupf82h9hfed83c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653871654163:android:24465084832a4b2aeb26e6",
+        "android_client_info": {
+          "package_name": "com.kiranakaronamerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653871654163-j3525p20g11ck0qhdvupf82h9hfed83c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMndYPlwfxC7QeNO7WDkhsFJUbqGIOPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653871654163-j3525p20g11ck0qhdvupf82h9hfed83c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653871654163:android:30b842044dfbc8e5eb26e6",
+        "android_client_info": {
+          "package_name": "com.merchantregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653871654163-j3525p20g11ck0qhdvupf82h9hfed83c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMndYPlwfxC7QeNO7WDkhsFJUbqGIOPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653871654163-j3525p20g11ck0qhdvupf82h9hfed83c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653871654163:android:c559c7391afc7dbbeb26e6",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653871654163-j3525p20g11ck0qhdvupf82h9hfed83c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMndYPlwfxC7QeNO7WDkhsFJUbqGIOPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653871654163-j3525p20g11ck0qhdvupf82h9hfed83c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
